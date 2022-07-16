@@ -1,7 +1,6 @@
 /*
 *  Assume a user account 'fsad' with password 'fsad2022' with permission
-* to create  databases already exists. You do NO need to include the commands
-* to create the user nor to give it permission in you solution.
+* to create  databases already exists.
 * For your testing, the following command may be used:
 *
 * CREATE USER fsad PASSWORD 'fsad2022' CREATEDB;

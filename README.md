@@ -1,8 +1,8 @@
-# TaxedTradingRoutes
+# Taxed Trading Routes
 
 This project was one of my assignments at university, assessing the SQL skills acquired from the module studied.  
 
-## Skills tested
+## Skills evaluated
 
 1. Creating a database and connecting to that database
 2. Implementing the given design of the database
